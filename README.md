@@ -32,3 +32,4 @@ The dashboard provides a clear representation of business performance over two y
 There’s a notable growth in both income and units sold between 2020 and 2021.
 A detailed breakdown by product category and customer location provides actionable insights into where revenue is coming from and which products are the most popular.
 The LTV data can help identify states with the most valuable customers, aiding in targeted marketing efforts.
+![Summery](https://github.com/user-attachments/assets/c78e26c2-0c6b-4b8c-838c-32daec53a38f)
